@@ -1,6 +1,6 @@
 - 👋 Hi, I’m P.Sai Vardhan Reddy
-- 👀 I’m interested in
-- 🌱 I’m currently learning python,sql
+- 👀 I’m interested in dsa
+- 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vardhanreddy53@gmail.com
 
