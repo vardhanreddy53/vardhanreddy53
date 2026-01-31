@@ -1,11 +1,60 @@
-- 👋 Hi, I’m P.Sai Vardhan Reddy
-- 👀 I’m interested in dsa
-- 🌱 I’m done  learning React.JS,Tailwind.
-  Im currently learning Android dev,ML,NLP
-- 💞️ I’m looking to collaborate on ... new research llm,ML,NLP.
-- 📫 How to reach me saivardhanreddypathuri@gmail.com
+# Hi there 👋, I'm P. Sai Vardhan Reddy
 
-<!---
-vardhanreddy53/vardhanreddy53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 DSA & Competitive Programming Enthusiast  
+🤖 Interested in AI/ML, NLP and LLM Research  
+🌐 Full Stack & App Development Learner  
+
+---
+
+## 🚀 About Me
+- Passionate about problem solving and algorithms  
+- Strong focus on Data Structures and Competitive Programming  
+- Exploring Machine Learning, NLP and Large Language Models  
+- Currently learning Android Development and advanced ML concepts  
+- MS in Computer Science student @ Northeastern University
+
+---
+
+## 🧠 Competitive Programming
+
+- 🔗 LeetCode: https://leetcode.com/vardhanreddy53  
+  - 🧩 50+ problems solved  
+  - 🏆 Contest Rating: **1700+**  
+  - 📊 Top ~8% globally in LeetCode contests  
+
+---
+
+## 🛠️ Skills
+
+- **Languages:** Java, Python, JavaScript  
+- **Web:** React.js, Tailwind CSS, Node.js
+- **Databases:** MySQL, MongoDB  
+- **Core CS:** Data Structures & Algorithms, OOP, DBMS  
+
+---
+
+## 🌱 Currently Learning
+
+- Machine Learning & Deep Learning  
+- Natural Language Processing  
+- System Design  
+- Android App Development  
+
+---
+
+## 🤝 Looking to Collaborate On
+
+- AI/ML and LLM based research projects  
+- Open-source tools for interview prep and education  
+- Automation and intelligent web applications  
+
+---
+
+## 🔗 Connect With Me
+
+- 📧 Email: saivardhanreddypathuri@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/vardhanreddy53/  
+
+---
+
+> “Code. Practice. Learn. Repeat.”
